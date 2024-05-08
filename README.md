@@ -15,17 +15,17 @@
 ## 🛠 &nbsp;Tech Stack
 
 <p align="start">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/DMThysgo">
     <img height="40em" src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,sass" />
   </a>
 </p>
 <p align="start">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/DMThysgo">
     <img height="40em" src="https://skillicons.dev/icons?i=java,aws,mongodb,postman,git,github,r,py,vercel" />
   </a>
 </p>
 <p align="start">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/DMThysgo">
     <img height="40em" src="https://skillicons.dev/icons?i=vscode,anaconda,eclipse,discord,figma,gamemakerstudio,godot,ps" />
   </a>
 </p>
