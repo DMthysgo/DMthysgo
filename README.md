@@ -1,4 +1,4 @@
-<img align="right" height="300em" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
+<img align="right" height="100em" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 
 <h1 align="left">Hi 
   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Thyago Melo
